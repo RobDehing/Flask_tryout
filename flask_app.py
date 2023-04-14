@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return'<p> Hello world!</p>'
+    return'<p> Tekst naar keuze ;-) </p>'
 
 
 
